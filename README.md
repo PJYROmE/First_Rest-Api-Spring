@@ -83,7 +83,12 @@ JDBC URL: jdbc:h2:mem:testdb
 Accessible via the H2 Console for quick inspection and testing.
 
 SWAGGER
-![image.alt](
+![image.alt](https://github.com/PJYROmE/First_Rest-Api-Spring/blob/442ab9930b1940a3c42228f372d55e3e1a65221e/SWAGGER.png)
+
+H2 DATABASE
+![image.alt]()
+
+
 
 
 
