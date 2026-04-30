@@ -86,7 +86,7 @@ SWAGGER
 ![image.alt](https://github.com/PJYROmE/First_Rest-Api-Spring/blob/442ab9930b1940a3c42228f372d55e3e1a65221e/SWAGGER.png)
 
 H2 DATABASE
-![image.alt]()
+![image.alt](https://github.com/PJYROmE/First_Rest-Api-Spring/blob/25b86242c1fa4c40203a257f96bb84a456133e13/Screenshot%202026-04-30%20155656.png)
 
 
 
