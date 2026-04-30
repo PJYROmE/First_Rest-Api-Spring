@@ -83,6 +83,9 @@ JDBC URL: jdbc:h2:mem:testdb
 Accessible via the H2 Console for quick inspection and testing.
 
 SWAGGER
+![image.alt](
+
+
 
 
 
