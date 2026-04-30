@@ -46,7 +46,7 @@ mvn spring-boot:run
 Feature	URL
 API Root	http://localhost:8080/api/v1/products
 Swagger UI	http://localhost:8080/swagger-ui/index.html
-H2 Console	http://localhost:8080/h2-console
+H2 Console	http://localhost:8080/console
 
 
 🧠 Example Endpoints
@@ -56,27 +56,13 @@ POST /api/v1/products
 Content-Type: application/json
 
 {
-  "name": "Laptop"
+  "name": "panashe"
 }
 Response
-
-json
 {
-  "id": 1,
-  "name": "Laptop"
+"id":1
+"name":"Panashe"
 }
-🔍 Get All Products
-http
-GET /api/v1/products
-Response
-
-json
-[
-  { "id": 1, "name": "PANASHE" },
-  { "id": 2, "name": "Laptop" },
-  { "id": 3, "name": "Edi" }
-]
-
 🗄️ Database Configuration
 Type: In‑memory H2
 JDBC URL: jdbc:h2:mem:testdb
