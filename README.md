@@ -4,15 +4,15 @@ This project implements a fully functional RESTful API using Spring Boot 3
 It demonstrates clean architecture, dependency injection, and data persistence with an H2 in‑memory database.
 The API exposes endpoints for managing products, including creation, retrieval, update, and deletion.
 
-⚙️ Technologies
-Layer	Technology	Purpose
-Backend	Spring Boot 3.2	Application framework
-Web	Spring Web MVC	REST API endpoints
-Data	Spring Data JPA	ORM and repository abstraction
-Database	H2 Database	Lightweight in‑memory storage
-Documentation	SpringDoc OpenAPI 2.0	Swagger UI integration
-Build	Maven	Dependency management
-Language	Java 17	Core implementation
+| Layer | Technology | Purpose |
+| --- | --- | --- |
+| Backend | **Spring Boot 3.2** | Application framework |
+| Web | **Spring Web MVC** | REST API endpoints |
+| Data | **Spring Data JPA** | ORM and repository abstraction |
+| Database | **H2 Database** | Lightweight in‑memory storage |
+| Documentation | **SpringDoc OpenAPI 2.0** | Swagger UI integration |
+| Build | **Maven** | Dependency management |
+| Language | **Java 17** | Core implementation |
 
 
 🏗️ Project Structure
@@ -79,8 +79,11 @@ json
 
 🗄️ Database Configuration
 Type: In‑memory H2
-
 JDBC URL: jdbc:h2:mem:testdb
 Accessible via the H2 Console for quick inspection and testing.
+
+SWAGGER
+
+
 
 
